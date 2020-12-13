@@ -1,0 +1,318 @@
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Welcome to Virtual Sleuth! Get ready for a fun detective game. Your neighbour Cuckoo has died this morning, and you need to find out who killed Cuckoo. "
+          }
+        ]
+      }
+    }
+  ]
+  
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Ready to start? "
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Yes"
+        },
+        {
+          "title": "No"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "You have examined the body and found some scratches, Cuckoo feathers were all over the place. What do you want to do next?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Take a closer look"
+        },
+        {
+          "title": "Go to hill"
+        },
+        {
+          "title": "Go to forest"
+        },
+        {
+          "title": "Finish case"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "There were no footsteps on the ground. It looks like the murderer attacked from air. Alright, what do you want to do next?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Go to hill"
+        },
+        {
+          "title": "Go to Forest"
+        },
+        {
+          "title": "Finish case"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Ok, finish case. Which animal do you think is the murderer - hawk, cat, snake or owl? "
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Hawk"
+        },
+        {
+          "title": "Owl"
+        },
+        {
+          "title": "Cat"
+        },
+        {
+          "title": "Snake"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Ok, go to hill. You saw hawk and cat. Who do you wanna talk to?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Talk to Hawk"
+        },
+        {
+          "title": "Talk to Cat"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Ok, go to forest. You saw owl and snake. Who do you wanna talk to?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Talk to owl"
+        },
+        {
+          "title": "Talk to snake"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Oh no! The real murderer fled. Wanna start over and try again?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Yes"
+        },
+        {
+          "title": "No"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Congratulations! You have successfully identified the murderer! Do you wanna play again?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Yes"
+        },
+        {
+          "title": "No"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "No worries. Hope to play detective game with you soon!"
+          }
+        ]
+      }
+    }
+  ]
+  
+  {
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Snake whispered it saw Hawk and Owl around the crime scene this morning. What do you want to do next?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Talk to owl"
+        },
+        {
+          "title": "Go to hill"
+        },
+        {
+          "title": "Finish case"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Owl refused to talk to you. You saw owl was injured badly. What do you want to do next?"
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Talk to snake"
+        },
+        {
+          "title": "Go to Hill"
+        },
+        {
+          "title": "Finish case"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Cat was licking its paws and ignored you. You saw some scratches on its body. What do you want to do next? "
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Talk to hawk"
+        },
+        {
+          "title": "Go to forest"
+        },
+        {
+          "title": "Finish case"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "candidates": [
+    {
+      "first_simple": {
+        "variants": [
+          {
+            "speech": "Hawk felt really sorry to hear the death of Cuckoo, and mentioned Cat loves to play with Cuckoo. You saw some dried blood on its beak. What do you want to do next? "
+          }
+        ]
+      },
+      "suggestions": [
+        {
+          "title": "Talk to cat"
+        },
+        {
+          "title": "Go to forest"
+        },
+        {
+          "title": "Finish case"
+        }
+      ]
+    }
+  ]
+}
